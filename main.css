@@ -1,0 +1,33 @@
+*{
+	position: relative;
+}
+body {
+	margin: 20px 0px 0px 20px;
+}
+
+p {
+	color: white;
+	text-align: right;
+	top: -30px;
+	right: 10px;
+	margin: 3px;
+}
+
+.borde {
+	border: 2px solid black;
+	width: 150px;
+}
+
+.caja {
+	margin-top: 30px;
+	margin-left: 20px;
+	display: inline-block;
+}
+
+.foto {
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+	margin-right: 30px;
+}
+
